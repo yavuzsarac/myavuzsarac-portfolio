@@ -164,7 +164,7 @@ function Home() {
       </FadeInSection>
 
       <FadeInSection id="yetenekler">
-        <h2>Yetenekler & Teknolojiler</h2>
+        <h2>Yetenekler, Teknolojiler ve Diller</h2>
         <p>Projelerimde ve akademik çalışmalarımda aktif olarak kullandığım araçlar ve teknolojiler.</p>
 
         <div className="skills-container">
@@ -197,6 +197,14 @@ function Home() {
               <span className="skill-item">React</span>
               <span className="skill-item">HTML5</span>
               <span className="skill-item">CSS3</span>
+            </div>
+          </div>
+
+           <div className="skill-category">
+            <h3>Diller</h3>
+            <div className="skill-list">
+              <span className="skill-item">İngilizce - C1</span>
+              <span className="skill-item">Türkçe - Ana Dil</span>
             </div>
           </div>
 

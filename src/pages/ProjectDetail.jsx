@@ -13,8 +13,9 @@ const projectsData = {
       "Büyük Dil Modelleri (LLM) kullanılarak metnin anlamlı özetlere dönüştürülmesi.",
       "Kullanıcı dostu, hızlı yanıt veren modern web arayüzü."
     ],
-    githubLink: "", 
-    liveLink: ""    
+    githubLink: "https://github.com/yavuzsarac/ViBot", 
+    liveLink: "https://vibot10.streamlit.app/",
+     
   },
   "nebu": {
     title: "NeBu - Görme Engelliler İçin Yapay Zeka",
@@ -26,8 +27,9 @@ const projectsData = {
       "Görüntüyü metne (Image Captioning) ve metni sese (TTS) çevirme mimarisi.",
       "Erişilebilirlik standartlarına uygun, kolay kullanılabilir mobil arayüz."
     ],
-    githubLink: "",
-    liveLink: ""
+    githubLink: "https://github.com/yavuzsarac/NeBu-Backend",
+    liveLink: "https://play.google.com/store/apps/details?id=com.yavuzsarac.mobile&hl=tr",
+    
   },
   "1d-anomali": {
     title: "Tek Boyutlu Sensör Verilerinde Anomali Tespiti",
@@ -39,8 +41,8 @@ const projectsData = {
       "Keras tabanlı, yüksek doğruluk oranına sahip anomali tespit mimarisi.",
       "Gerçek dünya sensör verileri üzerinde eğitim ve test süreçleri."
     ],
-    githubLink: "",
-    liveLink: ""
+    githubLink: "https://github.com/yavuzsarac/sensor-anomaly-detector"
+    
   },
   "3d-anomali": {
     title: "Üç Boyutlu Sensör Verilerinde Anomali Tespiti",
@@ -51,9 +53,8 @@ const projectsData = {
       "Çok kanallı verilerin eşzamanlı analizi ve özellik çıkarımı (Feature Extraction).",
       "Gelişmiş derin öğrenme ağları kullanılarak yüksek tespit doğruluğu.",
       "Lotec Company stajı kapsamında sektörel ihtiyaçlara yönelik geliştirme."
-    ],
-    githubLink: "",
-    liveLink: ""
+    ]
+  
   },
   "yuz-kirpma": {
     title: "Otomatik Yüz Tespiti ve Kırpma",
@@ -64,9 +65,7 @@ const projectsData = {
       "OpenCV tabanlı yüksek hızlı yüz tespiti algoritmaları.",
       "Farklı ışık ve açı koşullarında yüksek doğruluk oranı.",
       "Toplu (Batch) fotoğraf işleme ve boyutlandırma desteği."
-    ],
-    githubLink: "",
-    liveLink: ""
+    ]
   },
   "foto-siniflandirma": {
     title: "Görüntü Sınıflandırma Modeli",
@@ -77,9 +76,7 @@ const projectsData = {
       "Evrişimli Sinir Ağları (CNN) kullanılarak yüksek performanslı model tasarımı.",
       "Görüntü ön işleme ve veri artırma (Data Augmentation) teknikleri.",
       "TensorFlow/Keras üzerinde uçtan uca eğitim (Training) ve doğrulama (Validation) boru hattı."
-    ],
-    githubLink: "",
-    liveLink: ""
+    ]
   },
   "turkiye-harita": {
     title: "Etkileşimli Türkiye Haritası",
@@ -91,8 +88,7 @@ const projectsData = {
       "React state yönetimi ile tıklanan ile göre dinamik içerik renderlama.",
       "Modern, hızlı ve mobil uyumlu (Responsive) tasarım."
     ],
-    githubLink: "",
-    liveLink: ""
+    githubLink: "https://github.com/yavuzsarac/turkiye-map"
   }
 };
 
