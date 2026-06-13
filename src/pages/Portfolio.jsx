@@ -619,7 +619,7 @@ function Portfolio() {
 
       <header className="demo-nav">
         <a className="demo-brand" href="#top" aria-label="Yavuz Saraç">
-          YS<span>.</span>
+          MYS<span>.</span>
         </a>
 
         <nav className="demo-nav-links" aria-label="Portfolio">
