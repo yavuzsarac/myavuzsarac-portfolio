@@ -43,8 +43,8 @@ const copy = {
           number: '01',
           title: 'Başlangıç ve eğitim',
           paragraphs: [
-            'Merhaba, ben Yavuz. Ankara Medipol Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Teknolojiye olan tutkumla yazılım dünyasında sürekli kendimi geliştirmeye odaklanıyor, özellikle yapay zeka ve web teknolojileri alanında değer üreten projeler üzerinde çalışıyorum.',
-            "Eğitim hayatıma doğup büyüdüğüm Ankara'da başladım. Çok kısa bir süreliğine bulunduğum Van'dan tekrar memleketim Ankara'ya dönerek eğitimime kaldığım yerden devam ettim. İlkokul eğitimimi Gülten Kösemen İlkokulu'nda tamamlarken, bu süreçte Montessori Vakfı ve çeşitli kurumlardan aldığım eğitimlerle İngilizce altyapımı erken yaşta sağlamlaştırdım. Gaziosmanpaşa Necla İlhan İpekçi Ortaokulu'nun ardından, LGS'de %7'lik dilime girerek Yavuz Sultan Selim Anadolu Lisesi'ni kazandım ve buradan 90,9 ortalama ile mezun oldum. 2023 YKS'de elde ettiğim dereceyle üniversiteme yerleştim ve şu an akademik hayatıma 2.85 GANO ile devam etmekteyim.",
+            'Merhaba, ben Yavuz. Ankara Medipol Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Teknolojiye olan tutkumla yazılım dünyasında sürekli kendimi geliştirmeye odaklanıyor, özellikle yapay zeka ve web teknolojileri alanında değer üreten projeler üzerinde çalışıyorum.',
+            "Eğitim hayatıma doğup büyüdüğüm Ankara'da başladım. Çok kısa bir süreliğine bulunduğum Van'dan tekrar memleketim Ankara'ya dönerek eğitimime kaldığım yerden devam ettim. İlkokul eğitimimi Gülten Kösemen İlkokulu'nda tamamlarken, bu süreçte Montessori Vakfı ve çeşitli kurumlardan aldığım eğitimlerle İngilizce altyapımı erken yaşta sağlamlaştırdım. Gaziosmanpaşa Necla İlhan İpekçi Ortaokulu'nun ardından, LGS'de %7'lik dilime girerek Yavuz Sultan Selim Anadolu Lisesi'ni kazandım ve buradan 90,9 ortalama ile mezun oldum. 2023 YKS'de elde ettiğim dereceyle üniversiteme yerleştim ve şu an akademik hayatıma 2.89 GANO ile devam etmekteyim.",
           ],
         },
         {
@@ -65,7 +65,7 @@ const copy = {
           number: '04',
           title: 'Bilgiyi paylaşmak',
           paragraphs: [
-            'Akademik ve profesyonel gelişimimin yanı sıra, bilgi paylaşımına da büyük önem veriyorum. Ankara Medipol Üniversitesi Yapay Zeka Topluluğu yönetim kurulunda Eğitim ve Proje departmanında aktif rol alarak, öğrenci arkadaşlarıma Python ve Makine Öğrenmesi eğitimleri veren ekibin koordinasyonunu üstlendim ve eğitmen olarak görev yaptım. Yenilikçi teknolojileri takip etmeye ve bu ekosisteme katkı sağlamaya devam ediyorum.',
+            'Akademik ve profesyonel gelişimimin yanı sıra, bilgi paylaşımına da büyük önem veriyorum. Ankara Medipol Üniversitesi Yapay Zeka Topluluğu yönetim kurulunda Eğitim ve Proje departmanında aktif rol alarak, öğrenci arkadaşlarıma Python ve Makine Öğrenmesi eğitimleri veren ekibin koordinasyonunu üstlendim ve eğitmen olarak görev yaptım. Yenilikçi teknolojileri takip etmeye ve bu ekosisteme katkı sağlamak için elimden geleni yaptım.',
           ],
         },
       ],
@@ -94,11 +94,11 @@ const copy = {
         'Her deneyim, bugün geliştirdiğim ürünlere farklı bir bakış açısı kazandırdı.',
       items: [
         {
-          date: '2025 — Bugün',
+          date: '2025 — 2026',
           role: 'Eğitmen · Eğitim ve Proje Departmanı',
           company: 'Ankara Medipol Üniversitesi Yapay Zeka Topluluğu',
           text:
-            'Python ve makine öğrenmesi eğitimleri veriyor, öğrenci projelerinin fikirden uygulamaya ilerlemesini koordine ediyorum.',
+            'Python ve makine öğrenmesi eğitimleri verip, öğrenci projelerinin fikirden uygulamaya ilerlemesini koordine ettim.',
         },
         {
           date: 'Ağu — Eyl 2025',
@@ -122,7 +122,7 @@ const copy = {
       groups: [
         {
           title: 'Yapay zeka ve veri',
-          items: ['TensorFlow', 'Keras', 'Scikit-Learn', 'Pandas', 'NumPy', 'OpenCV'],
+          items: ['TensorFlow', 'Keras', 'Scikit-Learn', 'Pandas', 'NumPy', 'OpenCV', 'PyTorch'],
         },
         {
           title: 'Programlama',
@@ -195,8 +195,8 @@ const copy = {
           number: '01',
           title: 'Beginnings and education',
           paragraphs: [
-            'Hello, I am Yavuz, a third-year Computer Engineering student at Ankara Medipol University. Driven by my passion for technology, I continuously improve my software development skills and build projects that create value, particularly in artificial intelligence and web technologies.',
-            'I began my education in Ankara, where I was born and raised. After spending a short period in Van, I returned to Ankara and continued my studies. I completed primary school at Gülten Kösemen Primary School and strengthened my English foundation at an early age through programs offered by the Montessori Foundation and other institutions. After Gaziosmanpaşa Necla İlhan İpekçi Middle School, I placed in the top 7% in the LGS entrance exam and attended Yavuz Sultan Selim Anatolian High School, graduating with an average of 90.9. My 2023 YKS result led me to Ankara Medipol University, where I currently continue my academic life with a 2.85 GPA.',
+            'Hello, I am Yavuz, a fourth-year Computer Engineering student at Ankara Medipol University. Driven by my passion for technology, I continuously improve my software development skills and build projects that create value, particularly in artificial intelligence and web technologies.',
+            'I began my education in Ankara, where I was born and raised. After spending a short period in Van, I returned to Ankara and continued my studies. I completed primary school at Gülten Kösemen Primary School and strengthened my English foundation at an early age through programs offered by the Montessori Foundation and other institutions. After Gaziosmanpaşa Necla İlhan İpekçi Middle School, I placed in the top 7% in the LGS entrance exam and attended Yavuz Sultan Selim Anatolian High School, graduating with an average of 90.9. My 2023 YKS result led me to Ankara Medipol University, where I currently continue my academic life with a 2.89 GPA.',
           ],
         },
         {
@@ -217,7 +217,7 @@ const copy = {
           number: '04',
           title: 'Sharing what I learn',
           paragraphs: [
-            'Alongside my academic and professional growth, I care deeply about sharing knowledge. As an active member of the Education and Projects department on the board of Ankara Medipol University’s Artificial Intelligence Community, I coordinated the team providing Python and machine learning training to fellow students and worked as an instructor. I continue to follow emerging technologies and contribute to this ecosystem.',
+            'Alongside my academic and professional growth, I care deeply about sharing knowledge. I was an active member of the Education and Projects department on the board of Ankara Medipol University’s Artificial Intelligence Community, I coordinated the team providing Python and machine learning training to fellow students and worked as an instructor. I tried to follow emerging technologies and contribute to this ecosystem.',
           ],
         },
       ],
@@ -246,7 +246,7 @@ const copy = {
         'Every experience has added a new perspective to the products I build today.',
       items: [
         {
-          date: '2025 — Present',
+          date: '2025 — 2026',
           role: 'Instructor · Education and Projects',
           company: 'Ankara Medipol University AI Community',
           text:
@@ -274,7 +274,7 @@ const copy = {
       groups: [
         {
           title: 'AI and data',
-          items: ['TensorFlow', 'Keras', 'Scikit-Learn', 'Pandas', 'NumPy', 'OpenCV'],
+          items: ['TensorFlow', 'Keras', 'Scikit-Learn', 'Pandas', 'NumPy', 'OpenCV', 'PyTorch'],
         },
         {
           title: 'Programming',
