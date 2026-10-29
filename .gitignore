@@ -22,3 +22,14 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Local configuration, generated verification output and deployment caches
+.env
+.env.*
+!.env.example
+.vercel/
+.cache/
+coverage/
+playwright-report/
+test-results/
+*.tsbuildinfo

@@ -1,0 +1,8 @@
+export default function PlanetLife({ type }) {
+  if (type === 'home') return <g className="planet-life"><rect className="observatory-light" x="24" y="10" width="2" height="3" fill="#9befe2"/><path className="observatory-star" d="M33 3h1v2h2v1h-2v2h-1V6h-2V5h2Z" fill="#d8e9b9"/></g>;
+  if (type === 'industry') return <g className="planet-life"><rect className="terminal-blink" x="29" y="12" width="3" height="1" fill="#b9efb6"/><rect className="data-packet" x="17" y="17" width="2" height="1" fill="#eff6c7"/><rect className="factory-light" x="24" y="5" width="1" height="1" fill="#ffce91"/></g>;
+  if (type === 'city') return <g className="planet-life"><path className="city-windows" d="M16 13h2v1h-2Z M22 7h2v2h-2Z M28 15h3v1h-3Z" fill="#f3e8b5"/><rect className="city-beacon" x="22" y="3" width="2" height="2" fill="#ffbbd4"/><rect className="commuter-light" x="11" y="33" width="2" height="1" fill="#dbd6e9"/></g>;
+  if (type === 'crystal') return <g className="planet-life"><path className="crystal-sparkle" d="M29 2h1v2h2v1h-2v2h-1V5h-2V4h2Z" fill="#d4fff0"/><path className="crystal-energy" d="M20 9h1v8h-1Z M30 15h1v5h-1Z" fill="#c5f6ea"/></g>;
+  if (type === 'signal') return <g className="planet-life" fill="none" stroke="#f1c5df" strokeWidth=".65"><path className="radio-wave radio-wave-one" d="M33 4h3v3"/><path className="radio-wave radio-wave-two" d="M34 1h5v5"/><rect className="relay-beacon" x="23" y="8" width="1" height="1" fill="#fff0d1" stroke="none"/></g>;
+  return <g className="planet-life"><rect className="crt-scanline" x="20" y="11" width="9" height="1" fill="#9de5b0" opacity=".35"/><rect className="crt-cursor" x="25" y="15" width="2" height="1" fill="#d6f2bd"/></g>;
+}
